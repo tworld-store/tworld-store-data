@@ -1,0 +1,296 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "updatedAt": "2025-10-14T02:10:00.753Z",
+    "generator": "SKT Shop Data Generator",
+    "description": "SKT ??? ??? ?? ???"
+  },
+  "devices": [
+    {
+      "id": "??? S24_128GB",
+      "colorOptionId": "??? S24_????_128GB",
+      "brand": "??",
+      "model": "??? S24",
+      "color": {
+        "name": "????",
+        "hex": "#1C1C1C"
+      },
+      "storage": 128,
+      "price": 950000,
+      "image": ""
+    },
+    {
+      "id": "??? S24_128GB",
+      "colorOptionId": "??? S24_?????_128GB",
+      "brand": "??",
+      "model": "??? S24",
+      "color": {
+        "name": "?????",
+        "hex": "#F5A623"
+      },
+      "storage": 128,
+      "price": 950000,
+      "image": ""
+    },
+    {
+      "id": "??? S24_256GB",
+      "colorOptionId": "??? S24_????_256GB",
+      "brand": "??",
+      "model": "??? S24",
+      "color": {
+        "name": "????",
+        "hex": "#1C1C1C"
+      },
+      "storage": 256,
+      "price": 1050000,
+      "image": ""
+    },
+    {
+      "id": "??? 15_128GB",
+      "colorOptionId": "??? 15_??_128GB",
+      "brand": "??",
+      "model": "??? 15",
+      "color": {
+        "name": "??",
+        "hex": "#1E3A8A"
+      },
+      "storage": 128,
+      "price": 1250000,
+      "image": ""
+    },
+    {
+      "id": "??? 15_128GB",
+      "colorOptionId": "??? 15_??_128GB",
+      "brand": "??",
+      "model": "??? 15",
+      "color": {
+        "name": "??",
+        "hex": "#16A34A"
+      },
+      "storage": 128,
+      "price": 1250000,
+      "image": ""
+    },
+    {
+      "id": "??? 15 ??_256GB",
+      "colorOptionId": "??? 15 ??_??? ???_256GB",
+      "brand": "??",
+      "model": "??? 15 ??",
+      "color": {
+        "name": "??? ???",
+        "hex": "#8B7355"
+      },
+      "storage": 256,
+      "price": 1550000,
+      "image": ""
+    }
+  ],
+  "plans": [
+    {
+      "id": "0??109",
+      "category": {
+        "id": "YOUTH",
+        "name": "??",
+        "icon": "?"
+      },
+      "name": "0??109",
+      "description": "SNS ??? + ??",
+      "price": 109000,
+      "data": "???",
+      "voice": "???",
+      "sms": "???",
+      "additionalBenefits": "0??109",
+      "restrictions": "0??109",
+      "icon": "0??109",
+      "benefits": [
+        "YouTube ???? 6??",
+        "????? 1?",
+        "?? ???"
+      ],
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "0??69",
+      "category": {
+        "id": "YOUTH",
+        "name": "??",
+        "icon": "?"
+      },
+      "name": "0??69",
+      "description": "SNS ???",
+      "price": 69000,
+      "data": "200GB",
+      "voice": "???",
+      "sms": "???",
+      "additionalBenefits": "0??69",
+      "restrictions": "0??69",
+      "icon": "0??69",
+      "benefits": [
+        "SNS ??? ???",
+        "Spotify 3??",
+        "??? ????"
+      ],
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "????",
+      "category": {
+        "id": "5GX",
+        "name": "5GX ??",
+        "icon": "?"
+      },
+      "name": "????",
+      "description": "??? ???",
+      "price": 95000,
+      "data": "???",
+      "voice": "???",
+      "sms": "???",
+      "additionalBenefits": "????",
+      "restrictions": "????",
+      "icon": "????",
+      "benefits": [
+        "??? 50GB",
+        "???? 200?",
+        "T???"
+      ],
+      "color": "#1976D2"
+    }
+  ],
+  "subsidies": {
+    "change": [
+      {
+        "id": "??? S24_128GB_0??109_??",
+        "deviceId": "??? S24_128GB",
+        "planId": "0??109",
+        "commonSubsidy": 300000,
+        "additionalSubsidy": 100000,
+        "totalSubsidy": 400000
+      },
+      {
+        "id": "??? S24_128GB_0??69_??",
+        "deviceId": "??? S24_128GB",
+        "planId": "0??69",
+        "commonSubsidy": 280000,
+        "additionalSubsidy": 120000,
+        "totalSubsidy": 400000
+      },
+      {
+        "id": "??? S24_128GB_????_??",
+        "deviceId": "??? S24_128GB",
+        "planId": "????",
+        "commonSubsidy": 320000,
+        "additionalSubsidy": 90000,
+        "totalSubsidy": 410000
+      },
+      {
+        "id": "??? S24_128GB_T?? ???_??",
+        "deviceId": "??? S24_128GB",
+        "planId": "T?? ???",
+        "commonSubsidy": 400000,
+        "additionalSubsidy": 120000,
+        "totalSubsidy": 520000
+      }
+    ],
+    "port": [
+      {
+        "id": "??? S24_128GB_0??109_??",
+        "deviceId": "??? S24_128GB",
+        "planId": "0??109",
+        "commonSubsidy": 400000,
+        "additionalSubsidy": 150000,
+        "totalSubsidy": 550000
+      },
+      {
+        "id": "??? S24_128GB_????_??",
+        "deviceId": "??? S24_128GB",
+        "planId": "????",
+        "commonSubsidy": 420000,
+        "additionalSubsidy": 140000,
+        "totalSubsidy": 560000
+      },
+      {
+        "id": "??? S24_128GB_T?? ???_??",
+        "deviceId": "??? S24_128GB",
+        "planId": "T?? ???",
+        "commonSubsidy": 500000,
+        "additionalSubsidy": 180000,
+        "totalSubsidy": 680000
+      },
+      {
+        "id": "??? S24_128GB_0??109_??",
+        "deviceId": "??? S24_128GB",
+        "planId": "0??109",
+        "commonSubsidy": 480000,
+        "additionalSubsidy": 160000,
+        "totalSubsidy": 640000
+      }
+    ],
+    "new": [
+      {
+        "id": "??? S24_128GB_0??109_??",
+        "deviceId": "??? S24_128GB",
+        "planId": "0??109",
+        "commonSubsidy": 500000,
+        "additionalSubsidy": 200000,
+        "totalSubsidy": 700000
+      },
+      {
+        "id": "??? S24_128GB_0??69_??",
+        "deviceId": "??? S24_128GB",
+        "planId": "0??69",
+        "commonSubsidy": 480000,
+        "additionalSubsidy": 220000,
+        "totalSubsidy": 700000
+      },
+      {
+        "id": "??? S24_128GB_????_??",
+        "deviceId": "??? S24_128GB",
+        "planId": "????",
+        "commonSubsidy": 520000,
+        "additionalSubsidy": 190000,
+        "totalSubsidy": 710000
+      },
+      {
+        "id": "??? S24_128GB_0??109_??",
+        "deviceId": "??? S24_128GB",
+        "planId": "0??109",
+        "commonSubsidy": 580000,
+        "additionalSubsidy": 230000,
+        "totalSubsidy": 810000
+      }
+    ]
+  },
+  "settings": {
+    "????": "??????",
+    "????": "1588-0011",
+    "???": "(?)????????",
+    "CDN????": "https://cdn.tworld-store.com",
+    "??????": "6,12,24,36",
+    "?????": 0.059,
+    "?????": 10,
+    "??????": 1000,
+    "?????": 0.25,
+    "??????": "????",
+    "??????": "?????",
+    "????": "#007bff",
+    "????": "#6c757d",
+    "????": "#28a745",
+    "????": "#dc3545",
+    "????": "Pretendard, -apple-system, sans-serif",
+    "??????_???": 3600,
+    "??????_????": 600,
+    "??????_??": 120,
+    "????????": "https://images.tworld-store.com/devices/",
+    "???CDN": "https://images.tworld-store.com",
+    "API????": 10,
+    "??????": 10,
+    "??????": "? ???? ??? ???? ??!",
+    "??????": "2025-12-30T15:00:00.000Z",
+    "?????": "N",
+    "???????": "G-XXXXXXXXX",
+    "????????": "https://cdn.tworld-store.com/privacy-policy",
+    "????": "https://cdn.tworld-store.com/terms",
+    "????": "7? ?? ?? ??",
+    "???????": "123-45-67890"
+  }
+}
