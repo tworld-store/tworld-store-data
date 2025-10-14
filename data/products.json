@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "updatedAt": "2025-10-14T02:35:40.771Z",
+    "updatedAt": "2025-10-14T03:07:42.137Z",
     "generator": "SKT Shop Data Generator",
     "description": "SKT 휴대폰 쇼핑몰 상품 데이터"
   },
@@ -164,6 +164,7 @@
         "planId": "0청년109",
         "commonSubsidy": 300000,
         "additionalSubsidy": 100000,
+        "selectSubsidy": 0,
         "totalSubsidy": 400000
       },
       {
@@ -172,6 +173,7 @@
         "planId": "0청년69",
         "commonSubsidy": 280000,
         "additionalSubsidy": 120000,
+        "selectSubsidy": 0,
         "totalSubsidy": 400000
       },
       {
@@ -180,6 +182,7 @@
         "planId": "프리미엄",
         "commonSubsidy": 320000,
         "additionalSubsidy": 90000,
+        "selectSubsidy": 0,
         "totalSubsidy": 410000
       },
       {
@@ -188,6 +191,7 @@
         "planId": "T플랜 컴팩트",
         "commonSubsidy": 400000,
         "additionalSubsidy": 120000,
+        "selectSubsidy": 0,
         "totalSubsidy": 520000
       }
     ],
@@ -198,6 +202,7 @@
         "planId": "0청년109",
         "commonSubsidy": 400000,
         "additionalSubsidy": 150000,
+        "selectSubsidy": 0,
         "totalSubsidy": 550000
       },
       {
@@ -206,6 +211,7 @@
         "planId": "프리미엄",
         "commonSubsidy": 420000,
         "additionalSubsidy": 140000,
+        "selectSubsidy": 0,
         "totalSubsidy": 560000
       },
       {
@@ -214,6 +220,7 @@
         "planId": "T플랜 컴팩트",
         "commonSubsidy": 500000,
         "additionalSubsidy": 180000,
+        "selectSubsidy": 0,
         "totalSubsidy": 680000
       },
       {
@@ -222,6 +229,7 @@
         "planId": "0청년109",
         "commonSubsidy": 480000,
         "additionalSubsidy": 160000,
+        "selectSubsidy": 0,
         "totalSubsidy": 640000
       }
     ],
@@ -232,6 +240,7 @@
         "planId": "0청년109",
         "commonSubsidy": 500000,
         "additionalSubsidy": 200000,
+        "selectSubsidy": 100,
         "totalSubsidy": 700000
       },
       {
@@ -240,6 +249,7 @@
         "planId": "0청년69",
         "commonSubsidy": 480000,
         "additionalSubsidy": 220000,
+        "selectSubsidy": 200,
         "totalSubsidy": 700000
       },
       {
@@ -248,6 +258,7 @@
         "planId": "프리미엄",
         "commonSubsidy": 520000,
         "additionalSubsidy": 190000,
+        "selectSubsidy": 400,
         "totalSubsidy": 710000
       },
       {
@@ -256,6 +267,7 @@
         "planId": "0청년109",
         "commonSubsidy": 580000,
         "additionalSubsidy": 230000,
+        "selectSubsidy": 600,
         "totalSubsidy": 810000
       },
       {
@@ -264,6 +276,7 @@
         "planId": "0청년69",
         "commonSubsidy": 500000,
         "additionalSubsidy": 200000,
+        "selectSubsidy": 700,
         "totalSubsidy": 700000
       },
       {
@@ -272,6 +285,7 @@
         "planId": "시니어 A형",
         "commonSubsidy": 480000,
         "additionalSubsidy": 220000,
+        "selectSubsidy": 800,
         "totalSubsidy": 700000
       },
       {
@@ -280,6 +294,7 @@
         "planId": "프리미엄",
         "commonSubsidy": 550000,
         "additionalSubsidy": 180000,
+        "selectSubsidy": 900,
         "totalSubsidy": 730000
       },
       {
@@ -288,6 +303,7 @@
         "planId": "T플랜 컴팩트",
         "commonSubsidy": 520000,
         "additionalSubsidy": 190000,
+        "selectSubsidy": 1000,
         "totalSubsidy": 710000
       },
       {
@@ -296,6 +312,7 @@
         "planId": "0청년109",
         "commonSubsidy": 600000,
         "additionalSubsidy": 250000,
+        "selectSubsidy": 1100,
         "totalSubsidy": 850000
       },
       {
@@ -304,6 +321,7 @@
         "planId": "0청년69",
         "commonSubsidy": 580000,
         "additionalSubsidy": 230000,
+        "selectSubsidy": 1200,
         "totalSubsidy": 810000
       },
       {
@@ -312,6 +330,7 @@
         "planId": "시니어 A형",
         "commonSubsidy": 500000,
         "additionalSubsidy": 200000,
+        "selectSubsidy": 1300,
         "totalSubsidy": 700000
       },
       {
@@ -320,6 +339,7 @@
         "planId": "프리미엄",
         "commonSubsidy": 480000,
         "additionalSubsidy": 220000,
+        "selectSubsidy": 1400,
         "totalSubsidy": 700000
       },
       {
@@ -328,6 +348,7 @@
         "planId": "T플랜 컴팩트",
         "commonSubsidy": 550000,
         "additionalSubsidy": 180000,
+        "selectSubsidy": 1500,
         "totalSubsidy": 730000
       },
       {
@@ -336,6 +357,7 @@
         "planId": "0청년109",
         "commonSubsidy": 520000,
         "additionalSubsidy": 190000,
+        "selectSubsidy": 1600,
         "totalSubsidy": 710000
       },
       {
@@ -344,6 +366,7 @@
         "planId": "0청년69",
         "commonSubsidy": 600000,
         "additionalSubsidy": 250000,
+        "selectSubsidy": 1700,
         "totalSubsidy": 850000
       },
       {
@@ -352,6 +375,7 @@
         "planId": "시니어 A형",
         "commonSubsidy": 580000,
         "additionalSubsidy": 230000,
+        "selectSubsidy": 1800,
         "totalSubsidy": 810000
       },
       {
@@ -360,6 +384,7 @@
         "planId": "프리미엄",
         "commonSubsidy": 500000,
         "additionalSubsidy": 200000,
+        "selectSubsidy": 1900,
         "totalSubsidy": 700000
       },
       {
@@ -368,6 +393,7 @@
         "planId": "T플랜 컴팩트",
         "commonSubsidy": 480000,
         "additionalSubsidy": 220000,
+        "selectSubsidy": 2000,
         "totalSubsidy": 700000
       },
       {
@@ -376,6 +402,7 @@
         "planId": "0청년109",
         "commonSubsidy": 550000,
         "additionalSubsidy": 180000,
+        "selectSubsidy": 2100,
         "totalSubsidy": 730000
       },
       {
@@ -384,6 +411,7 @@
         "planId": "0청년69",
         "commonSubsidy": 520000,
         "additionalSubsidy": 190000,
+        "selectSubsidy": 2200,
         "totalSubsidy": 710000
       },
       {
@@ -392,6 +420,7 @@
         "planId": "시니어 A형",
         "commonSubsidy": 600000,
         "additionalSubsidy": 250000,
+        "selectSubsidy": 2300,
         "totalSubsidy": 850000
       },
       {
@@ -400,6 +429,7 @@
         "planId": "프리미엄",
         "commonSubsidy": 580000,
         "additionalSubsidy": 230000,
+        "selectSubsidy": 2400,
         "totalSubsidy": 810000
       },
       {
@@ -408,6 +438,7 @@
         "planId": "T플랜 컴팩트",
         "commonSubsidy": 500000,
         "additionalSubsidy": 200000,
+        "selectSubsidy": 2500,
         "totalSubsidy": 700000
       },
       {
@@ -416,6 +447,7 @@
         "planId": "0청년109",
         "commonSubsidy": 480000,
         "additionalSubsidy": 220000,
+        "selectSubsidy": 2600,
         "totalSubsidy": 700000
       },
       {
@@ -424,6 +456,7 @@
         "planId": "0청년69",
         "commonSubsidy": 550000,
         "additionalSubsidy": 180000,
+        "selectSubsidy": 2700,
         "totalSubsidy": 730000
       },
       {
@@ -432,6 +465,7 @@
         "planId": "시니어 A형",
         "commonSubsidy": 520000,
         "additionalSubsidy": 190000,
+        "selectSubsidy": 2800,
         "totalSubsidy": 710000
       },
       {
@@ -440,6 +474,7 @@
         "planId": "프리미엄",
         "commonSubsidy": 600000,
         "additionalSubsidy": 250000,
+        "selectSubsidy": 2900,
         "totalSubsidy": 850000
       },
       {
@@ -448,6 +483,7 @@
         "planId": "T플랜 컴팩트",
         "commonSubsidy": 580000,
         "additionalSubsidy": 230000,
+        "selectSubsidy": 3000,
         "totalSubsidy": 810000
       },
       {
@@ -456,6 +492,7 @@
         "planId": "0청년109",
         "commonSubsidy": 500000,
         "additionalSubsidy": 200000,
+        "selectSubsidy": 3100,
         "totalSubsidy": 700000
       },
       {
@@ -464,6 +501,7 @@
         "planId": "0청년69",
         "commonSubsidy": 480000,
         "additionalSubsidy": 220000,
+        "selectSubsidy": 3200,
         "totalSubsidy": 700000
       },
       {
@@ -472,6 +510,7 @@
         "planId": "시니어 A형",
         "commonSubsidy": 550000,
         "additionalSubsidy": 180000,
+        "selectSubsidy": 3300,
         "totalSubsidy": 730000
       },
       {
@@ -480,6 +519,7 @@
         "planId": "프리미엄",
         "commonSubsidy": 520000,
         "additionalSubsidy": 190000,
+        "selectSubsidy": 3400,
         "totalSubsidy": 710000
       },
       {
@@ -488,6 +528,7 @@
         "planId": "T플랜 컴팩트",
         "commonSubsidy": 600000,
         "additionalSubsidy": 250000,
+        "selectSubsidy": 3500,
         "totalSubsidy": 850000
       },
       {
@@ -496,6 +537,7 @@
         "planId": "0청년109",
         "commonSubsidy": 580000,
         "additionalSubsidy": 230000,
+        "selectSubsidy": 3600,
         "totalSubsidy": 810000
       },
       {
@@ -504,6 +546,7 @@
         "planId": "0청년69",
         "commonSubsidy": 500000,
         "additionalSubsidy": 200000,
+        "selectSubsidy": 3700,
         "totalSubsidy": 700000
       },
       {
@@ -512,6 +555,7 @@
         "planId": "시니어 A형",
         "commonSubsidy": 480000,
         "additionalSubsidy": 220000,
+        "selectSubsidy": 3800,
         "totalSubsidy": 700000
       },
       {
@@ -520,6 +564,7 @@
         "planId": "프리미엄",
         "commonSubsidy": 550000,
         "additionalSubsidy": 180000,
+        "selectSubsidy": 3900,
         "totalSubsidy": 730000
       },
       {
@@ -528,6 +573,7 @@
         "planId": "T플랜 컴팩트",
         "commonSubsidy": 520000,
         "additionalSubsidy": 190000,
+        "selectSubsidy": 4000,
         "totalSubsidy": 710000
       }
     ]
