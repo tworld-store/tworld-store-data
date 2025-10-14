@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "updatedAt": "2025-10-14T02:12:22.996Z",
+    "updatedAt": "2025-10-14T02:35:40.771Z",
     "generator": "SKT Shop Data Generator",
     "description": "SKT 휴대폰 쇼핑몰 상품 데이터"
   },
@@ -257,6 +257,278 @@
         "commonSubsidy": 580000,
         "additionalSubsidy": 230000,
         "totalSubsidy": 810000
+      },
+      {
+        "id": "갤럭시 S24_128GB_0청년69_신규",
+        "deviceId": "갤럭시 S24_128GB",
+        "planId": "0청년69",
+        "commonSubsidy": 500000,
+        "additionalSubsidy": 200000,
+        "totalSubsidy": 700000
+      },
+      {
+        "id": "갤럭시 S24_128GB_시니어 A형_신규",
+        "deviceId": "갤럭시 S24_128GB",
+        "planId": "시니어 A형",
+        "commonSubsidy": 480000,
+        "additionalSubsidy": 220000,
+        "totalSubsidy": 700000
+      },
+      {
+        "id": "갤럭시 S24_128GB_프리미엄_신규",
+        "deviceId": "갤럭시 S24_128GB",
+        "planId": "프리미엄",
+        "commonSubsidy": 550000,
+        "additionalSubsidy": 180000,
+        "totalSubsidy": 730000
+      },
+      {
+        "id": "갤럭시 S24_128GB_T플랜 컴팩트_신규",
+        "deviceId": "갤럭시 S24_128GB",
+        "planId": "T플랜 컴팩트",
+        "commonSubsidy": 520000,
+        "additionalSubsidy": 190000,
+        "totalSubsidy": 710000
+      },
+      {
+        "id": "갤럭시 S24_128GB_0청년109_신규",
+        "deviceId": "갤럭시 S24_128GB",
+        "planId": "0청년109",
+        "commonSubsidy": 600000,
+        "additionalSubsidy": 250000,
+        "totalSubsidy": 850000
+      },
+      {
+        "id": "갤럭시 S24_128GB_0청년69_신규",
+        "deviceId": "갤럭시 S24_128GB",
+        "planId": "0청년69",
+        "commonSubsidy": 580000,
+        "additionalSubsidy": 230000,
+        "totalSubsidy": 810000
+      },
+      {
+        "id": "갤럭시 S24_128GB_시니어 A형_신규",
+        "deviceId": "갤럭시 S24_128GB",
+        "planId": "시니어 A형",
+        "commonSubsidy": 500000,
+        "additionalSubsidy": 200000,
+        "totalSubsidy": 700000
+      },
+      {
+        "id": "갤럭시 S24_128GB_프리미엄_신규",
+        "deviceId": "갤럭시 S24_128GB",
+        "planId": "프리미엄",
+        "commonSubsidy": 480000,
+        "additionalSubsidy": 220000,
+        "totalSubsidy": 700000
+      },
+      {
+        "id": "갤럭시 S24_128GB_T플랜 컴팩트_신규",
+        "deviceId": "갤럭시 S24_128GB",
+        "planId": "T플랜 컴팩트",
+        "commonSubsidy": 550000,
+        "additionalSubsidy": 180000,
+        "totalSubsidy": 730000
+      },
+      {
+        "id": "갤럭시 S24_256GB_0청년109_신규",
+        "deviceId": "갤럭시 S24_256GB",
+        "planId": "0청년109",
+        "commonSubsidy": 520000,
+        "additionalSubsidy": 190000,
+        "totalSubsidy": 710000
+      },
+      {
+        "id": "갤럭시 S24_256GB_0청년69_신규",
+        "deviceId": "갤럭시 S24_256GB",
+        "planId": "0청년69",
+        "commonSubsidy": 600000,
+        "additionalSubsidy": 250000,
+        "totalSubsidy": 850000
+      },
+      {
+        "id": "갤럭시 S24_256GB_시니어 A형_신규",
+        "deviceId": "갤럭시 S24_256GB",
+        "planId": "시니어 A형",
+        "commonSubsidy": 580000,
+        "additionalSubsidy": 230000,
+        "totalSubsidy": 810000
+      },
+      {
+        "id": "갤럭시 S24_256GB_프리미엄_신규",
+        "deviceId": "갤럭시 S24_256GB",
+        "planId": "프리미엄",
+        "commonSubsidy": 500000,
+        "additionalSubsidy": 200000,
+        "totalSubsidy": 700000
+      },
+      {
+        "id": "갤럭시 S24_256GB_T플랜 컴팩트_신규",
+        "deviceId": "갤럭시 S24_256GB",
+        "planId": "T플랜 컴팩트",
+        "commonSubsidy": 480000,
+        "additionalSubsidy": 220000,
+        "totalSubsidy": 700000
+      },
+      {
+        "id": "아이폰 15_128GB_0청년109_신규",
+        "deviceId": "아이폰 15_128GB",
+        "planId": "0청년109",
+        "commonSubsidy": 550000,
+        "additionalSubsidy": 180000,
+        "totalSubsidy": 730000
+      },
+      {
+        "id": "아이폰 15_128GB_0청년69_신규",
+        "deviceId": "아이폰 15_128GB",
+        "planId": "0청년69",
+        "commonSubsidy": 520000,
+        "additionalSubsidy": 190000,
+        "totalSubsidy": 710000
+      },
+      {
+        "id": "아이폰 15_128GB_시니어 A형_신규",
+        "deviceId": "아이폰 15_128GB",
+        "planId": "시니어 A형",
+        "commonSubsidy": 600000,
+        "additionalSubsidy": 250000,
+        "totalSubsidy": 850000
+      },
+      {
+        "id": "아이폰 15_128GB_프리미엄_신규",
+        "deviceId": "아이폰 15_128GB",
+        "planId": "프리미엄",
+        "commonSubsidy": 580000,
+        "additionalSubsidy": 230000,
+        "totalSubsidy": 810000
+      },
+      {
+        "id": "아이폰 15_128GB_T플랜 컴팩트_신규",
+        "deviceId": "아이폰 15_128GB",
+        "planId": "T플랜 컴팩트",
+        "commonSubsidy": 500000,
+        "additionalSubsidy": 200000,
+        "totalSubsidy": 700000
+      },
+      {
+        "id": "아이폰 15_128GB_0청년109_신규",
+        "deviceId": "아이폰 15_128GB",
+        "planId": "0청년109",
+        "commonSubsidy": 480000,
+        "additionalSubsidy": 220000,
+        "totalSubsidy": 700000
+      },
+      {
+        "id": "아이폰 15_128GB_0청년69_신규",
+        "deviceId": "아이폰 15_128GB",
+        "planId": "0청년69",
+        "commonSubsidy": 550000,
+        "additionalSubsidy": 180000,
+        "totalSubsidy": 730000
+      },
+      {
+        "id": "아이폰 15_128GB_시니어 A형_신규",
+        "deviceId": "아이폰 15_128GB",
+        "planId": "시니어 A형",
+        "commonSubsidy": 520000,
+        "additionalSubsidy": 190000,
+        "totalSubsidy": 710000
+      },
+      {
+        "id": "아이폰 15_128GB_프리미엄_신규",
+        "deviceId": "아이폰 15_128GB",
+        "planId": "프리미엄",
+        "commonSubsidy": 600000,
+        "additionalSubsidy": 250000,
+        "totalSubsidy": 850000
+      },
+      {
+        "id": "아이폰 15_128GB_T플랜 컴팩트_신규",
+        "deviceId": "아이폰 15_128GB",
+        "planId": "T플랜 컴팩트",
+        "commonSubsidy": 580000,
+        "additionalSubsidy": 230000,
+        "totalSubsidy": 810000
+      },
+      {
+        "id": "아이폰 15_128GB_0청년109_신규",
+        "deviceId": "아이폰 15_128GB",
+        "planId": "0청년109",
+        "commonSubsidy": 500000,
+        "additionalSubsidy": 200000,
+        "totalSubsidy": 700000
+      },
+      {
+        "id": "아이폰 15_128GB_0청년69_신규",
+        "deviceId": "아이폰 15_128GB",
+        "planId": "0청년69",
+        "commonSubsidy": 480000,
+        "additionalSubsidy": 220000,
+        "totalSubsidy": 700000
+      },
+      {
+        "id": "아이폰 15_128GB_시니어 A형_신규",
+        "deviceId": "아이폰 15_128GB",
+        "planId": "시니어 A형",
+        "commonSubsidy": 550000,
+        "additionalSubsidy": 180000,
+        "totalSubsidy": 730000
+      },
+      {
+        "id": "아이폰 15_128GB_프리미엄_신규",
+        "deviceId": "아이폰 15_128GB",
+        "planId": "프리미엄",
+        "commonSubsidy": 520000,
+        "additionalSubsidy": 190000,
+        "totalSubsidy": 710000
+      },
+      {
+        "id": "아이폰 15_128GB_T플랜 컴팩트_신규",
+        "deviceId": "아이폰 15_128GB",
+        "planId": "T플랜 컴팩트",
+        "commonSubsidy": 600000,
+        "additionalSubsidy": 250000,
+        "totalSubsidy": 850000
+      },
+      {
+        "id": "아이폰 15 프로_256GB_0청년109_신규",
+        "deviceId": "아이폰 15 프로_256GB",
+        "planId": "0청년109",
+        "commonSubsidy": 580000,
+        "additionalSubsidy": 230000,
+        "totalSubsidy": 810000
+      },
+      {
+        "id": "아이폰 15 프로_256GB_0청년69_신규",
+        "deviceId": "아이폰 15 프로_256GB",
+        "planId": "0청년69",
+        "commonSubsidy": 500000,
+        "additionalSubsidy": 200000,
+        "totalSubsidy": 700000
+      },
+      {
+        "id": "아이폰 15 프로_256GB_시니어 A형_신규",
+        "deviceId": "아이폰 15 프로_256GB",
+        "planId": "시니어 A형",
+        "commonSubsidy": 480000,
+        "additionalSubsidy": 220000,
+        "totalSubsidy": 700000
+      },
+      {
+        "id": "아이폰 15 프로_256GB_프리미엄_신규",
+        "deviceId": "아이폰 15 프로_256GB",
+        "planId": "프리미엄",
+        "commonSubsidy": 550000,
+        "additionalSubsidy": 180000,
+        "totalSubsidy": 730000
+      },
+      {
+        "id": "아이폰 15 프로_256GB_T플랜 컴팩트_신규",
+        "deviceId": "아이폰 15 프로_256GB",
+        "planId": "T플랜 컴팩트",
+        "commonSubsidy": 520000,
+        "additionalSubsidy": 190000,
+        "totalSubsidy": 710000
       }
     ]
   },
